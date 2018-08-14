@@ -81,3 +81,7 @@ select, textarea {
 .blue {
     color: blue;
 }
+
+.this-class {
+    font-family: Arial, Helvetica, sans-serif;
+}
